@@ -1,0 +1,4 @@
+Backend/.env
+*.pyc
+EmbeddingsandRetrieval/.env
+EmbeddingsandRetrieval/Rag.py
